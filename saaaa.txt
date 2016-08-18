@@ -1,2 +1,3 @@
 bug02
 dev add 01
+new bug
